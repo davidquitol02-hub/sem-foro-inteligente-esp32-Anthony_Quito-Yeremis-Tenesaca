@@ -1,0 +1,1 @@
+# sem-foro-inteligente-esp32-Anthony_Quito-Yeremis-Tenesaca
